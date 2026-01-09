@@ -123,4 +123,4 @@ Me chamo Alex Miller, sou do interior de São Paulo. Sou graduado em Redes de Co
 <br>
 <br>
 
-<p>Atualmente, estou estudando e desenvolvendo projetos com as tecnologias acima. A meta é se tornar desenvolvedor Full-Stack no futuro. :)</p>
+<p>Atualmente, estou estudando e desenvolvendo projetos com as tecnologias acima. A meta é me tornar desenvolvedor Full-Stack no futuro. :)</p>
