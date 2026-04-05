@@ -2,8 +2,6 @@
 
 **`Desenvolvedor`**
 
-Me chamo Alex Miller.
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
